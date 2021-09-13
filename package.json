@@ -1,0 +1,18 @@
+{
+    "name": "djs-v13-handler",
+    "version": "1.0.0",
+    "description": "handler for discord.js v13",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "nodemon index.js"
+    },
+    "keywords": [],
+    "author": "@venom-exe",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.1.0",
+        "dotenv": "^10.0.0",
+        "glob": "^7.1.7"
+    }
+}
