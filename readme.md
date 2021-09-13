@@ -1,5 +1,5 @@
-# How To Run DJS-V13 Bot On Repl.it
-## [FOLLOW THIS VIDEO TO KNOW HOW IT WORKS :)](https://youtu.be/5DZVcMSotIc/)
+# DISCORD.JS-V13 Handler For Repl.it or Any Platform
+### [FOLLOW THIS VIDEO TO KNOW HOW IT WORKS :)](https://youtu.be/5DZVcMSotIc/)
 
 **CHECK OUT OUR BOTS :-**</p>
 REXZ:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=856741116912861276&permissions=261993005047&scope=bot)
