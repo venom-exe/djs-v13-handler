@@ -1,5 +1,5 @@
 # How To Run DJS-V13 Bot On Repl.it
-[FOLLOW THIS VIDEO TO KNOW HOW IT WORKS :)](https://youtu.be/5DZVcMSotIc/)
+## [FOLLOW THIS VIDEO TO KNOW HOW IT WORKS :)](https://youtu.be/5DZVcMSotIc/)
 
 **CHECK OUT OUR BOTS :-**</p>
 REXZ:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=856741116912861276&permissions=261993005047&scope=bot)
@@ -21,6 +21,7 @@ ULTRON:- [INVITE ME](https://discord.com/oauth2/authorize?client_id=782555605076
 ```
 ## IMPORTANT CMDS TO RUN THE BOT
 `npm install` - To install all the packages
+
 `node index.js | npm run` - To start the bot
 
 ## CHECK OUT OUR SOCIAL NETWORKS
