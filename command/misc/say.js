@@ -14,7 +14,7 @@ module.exports = {
  }
 var e = new MessageEmbed()
   .setTitle("MESSAGE REPEAT COMMAND")
-  .addField(`\u299b\n${args.join("")}\n\u200b`) 
+  .addField(`\u299b\n${args.join(" ")}\n\u200b`) 
   .setFooter("Venom OP | Sub To Venom ExE")
   .setColor("GOLD");
   message.channel.send({ content: "Here's The Message Repeated In Embed :", embeds: [e] }).catch(console.error)
